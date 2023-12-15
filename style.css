@@ -208,6 +208,9 @@ h1 {
   padding-left: 18px;
   padding-right: 18px;
 }
+.grid .card .note .un:hover {
+  opacity: 0.8;
+}
 .grid .card .note .deux {
   color: hsl(217, 12%, 63%);
   padding: 12px;
@@ -215,6 +218,9 @@ h1 {
   border-radius: 50%;
   padding-left: 18px;
   padding-right: 18px;
+}
+.grid .card .note .deux:hover {
+  opacity: 0.8;
 }
 .grid .card .note .trois {
   color: hsl(217, 12%, 63%);
@@ -224,6 +230,9 @@ h1 {
   padding-left: 18px;
   padding-right: 18px;
 }
+.grid .card .note .trois:hover {
+  opacity: 0.8;
+}
 .grid .card .note .quatre {
   color: hsl(217, 12%, 63%);
   padding: 12px;
@@ -232,6 +241,9 @@ h1 {
   padding-left: 18px;
   padding-right: 18px;
 }
+.grid .card .note .quatre:hover {
+  opacity: 0.8;
+}
 .grid .card .note .cinq {
   color: hsl(217, 12%, 63%);
   padding: 12px;
@@ -239,6 +251,9 @@ h1 {
   border-radius: 50%;
   padding-left: 18px;
   padding-right: 18px;
+}
+.grid .card .note .cinq:hover {
+  opacity: 0.8;
 }
 .grid .card button {
   background-color: hsl(25, 97%, 53%);

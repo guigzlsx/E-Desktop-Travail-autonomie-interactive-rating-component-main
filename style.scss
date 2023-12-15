@@ -209,6 +209,9 @@ h1 {
         border-radius: 50%;
         padding-left: 18px;
         padding-right: 18px;
+        &:hover {
+          opacity: 0.8;
+        }
       }
       .deux {
         color: $Ligh-Grey;
@@ -217,6 +220,9 @@ h1 {
         border-radius: 50%;
         padding-left: 18px;
         padding-right: 18px;
+        &:hover {
+          opacity: 0.8;
+        }
       }
       .trois {
         color: $Ligh-Grey;
@@ -225,6 +231,9 @@ h1 {
         border-radius: 50%;
         padding-left: 18px;
         padding-right: 18px;
+        &:hover {
+          opacity: 0.8;
+        }
       }
       .quatre {
         color: $Ligh-Grey;
@@ -233,6 +242,9 @@ h1 {
         border-radius: 50%;
         padding-left: 18px;
         padding-right: 18px;
+        &:hover {
+          opacity: 0.8;
+        }
       }
       .cinq {
         color: $Ligh-Grey;
@@ -241,6 +253,9 @@ h1 {
         border-radius: 50%;
         padding-left: 18px;
         padding-right: 18px;
+        &:hover {
+          opacity: 0.8;
+        }
       }
     }
     button {
